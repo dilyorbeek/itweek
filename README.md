@@ -1,2 +1,2 @@
 # itweek
-# Ushbu fayl android tizimida ishvolvchi AR ilovani ichki ko'rinishi
+# Ushbu fayl android tizimida ishvolvchi ARB Cafe ilovasini ichki ko'rinishi
